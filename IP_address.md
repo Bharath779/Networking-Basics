@@ -24,4 +24,4 @@ IPV4 :
  --------|--------|--------|--------|
   Note: 1 byte can have maximun of 255 & Minimum of 0 its range from [0-255]
 
-  
+  To Check IP_address of your PC use Use command in command Prompt ----> ipconfig
