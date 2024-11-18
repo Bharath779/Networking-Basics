@@ -1,0 +1,37 @@
+OSI: Open Source Interconnection
+
+< DNS (Domain Name System): 
+     < Its a name given to the IP_address like 8.8.8.8 is IP_address of google
+      we use 8.8.8.8 is IP_address as google.com(DNS)
+
+< TCP Handshaking:
+  Its usually used to secure communication in the Internet
+  how its works 
+     <1st its sends syn(request) to the server.
+     < 2nd server send back the syn ack(response).
+     < 3nd syn ack(response) is ack(accepected).
+
+OSI: Open Source Interconnection
+< its used for understading device network communication.
+< Its having 7 layer
+Lets consider we are requesting something in the Internet.
+ < Layer 7: Application Layer 
+            < its determines the what kind of request we are accessing like https, SSH
+
+ < Layer 6: Presentation Layer
+            < its used encrypting/formating the data takes place.
+
+ < Layer 5: Session Layer
+            < its used to create session with server usaually used aviod authentication again agian.
+
+ < Layer 4: Transport Layer
+            < In this layer data segmentation happens and also protocol is used (TCP/UDP).
+
+ < Layer 3: Networking Layer
+            < In this segmented data commes to router(tower) and source IP_Address and Destination IP_PAddress are identified and make packets.
+
+ < Layer 2: Data Link Layer
+            < In this if you are using the router its converted into packets if we are using switches its converted into frames.
+
+ < Layer 1: Physical Layer
+            < In this layer with help of optical fibers data is send to server.                                 
