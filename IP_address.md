@@ -14,7 +14,7 @@ CIDR : Class Inter Domain Routing
      
 IPV4 :
  < Its a protocal to create a IP_address
- < Its Usually having 4 bytes,and 1 byte is seperated by . i.e 192.65.32.11
+ < Its Usually having 4 bytes,and 1 byte is seperated by . ie 192.65.32.11
  < 1 byte = 8 bits 
  < 1 bit = 0/1
  < therefore 4 bytes = 32 bits
