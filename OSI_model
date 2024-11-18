@@ -16,7 +16,7 @@ OSI: Open Source Interconnection
 < Its having 7 layer
 Lets consider we are requesting something in the Internet.
  < Layer 7: Application Layer 
-            < its determines the what kind of request we are accessing like https, SSH
+            < its determines the what kind of request we are sending like https, SSH
 
  < Layer 6: Presentation Layer
             < its used encrypting/formating the data takes place.
