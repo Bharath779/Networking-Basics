@@ -4,7 +4,7 @@ Ports:
 We are having the Virtual Machine and in that we hosted many applications/Services
 then we need to access or send data to the hosted Service then with the help PORTS we can achieve the connection.
 
-< Port Numbers: 0-65535 (16-bit)
+< Port Numbers: 0-65535 (16-bits)
 
  <Port Types:
    1.TCP (Transmission Control Protocol) 
