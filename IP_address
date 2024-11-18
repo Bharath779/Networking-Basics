@@ -1,7 +1,7 @@
 IP_address (Internet Protocal) :
   Its a unique address given to the device to identify the device in the Network.
 
-<Types of IP_address
+Types of IP_address
 1.IPV4
 2.IPv6
 
@@ -12,7 +12,7 @@ CIDR : Class Inter Domain Routing
      < 192.64.32.0/16 ---> Class B  i.e get we get Ip range from 192.64.0.0 to 192.64.255.255
      < 192.64.32.0/24 ---> Class C  i.e get we get Ip range from 192.64.32.0 to 192.64.32.255
      
-<IPV4 :
+IPV4 :
  < Its a protocal to create a IP_address
  < Its Usually having 4 bytes,and 1 byte is seperated by . ie 192.65.32.11
  < 1 byte = 8 bits 
@@ -24,4 +24,4 @@ CIDR : Class Inter Domain Routing
  --------|--------|--------|--------|
   Note: 1 byte can have maximun of 255 & Minimum of 0 its range from [0-255]
 
-<To Check IP_address of your PC use Use command in command Prompt ----> ipconfig
+To Check IP_address of your PC use Use command in command Prompt ----> ipconfig

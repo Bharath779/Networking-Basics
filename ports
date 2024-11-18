@@ -4,14 +4,14 @@ Ports:
 We are having the Virtual Machine and in that we hosted many applications/Services
 then we need to access or send data to the hosted Service then with the help PORTS we can achieve the connection.
 
-< Port Numbers: 0-65535 (16-bits)
+ Port Numbers: 0-65535 (16-bits)
 
- <Port Types:
+ Port Types:
    1.TCP (Transmission Control Protocol) 
    2.UDP (User Datagram Protocol)
 
 
-<Some Important port numbers
+Some Important port numbers
 1. To access Web Server(HTTP) port is 80
 2. To access database(PostgreSQL)  is 5432
 3. HTTP: 80
