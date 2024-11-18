@@ -16,3 +16,8 @@ Subnet (subnetworking):
     < 172.168.3.0/16
       32-30=2 i.e 2^2 =65025 IPs.
       so we got required ips i.e 192.64.0.0 to 192.64.255.255 
+
+< Types of subnet
+ 1. Public (have the access to Internet Gtaeway(Internet))
+ 2. Private (does not have the access to Internet Gtaeway(Internet))
+ 3. VPN-Only (have the access to VPN(Virtual Private Network))
