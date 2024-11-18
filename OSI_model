@@ -25,7 +25,7 @@ Lets consider we are requesting something in the Internet.
             < its used to create session with server usaually used aviod authentication again agian.
 
  < Layer 4: Transport Layer
-            < In this layer data segmentation happens and also protocol is used (TCP/UDP).
+            < In this layer data segmentation(spliting) happens and also protocol is used (TCP/UDP).
 
  < Layer 3: Networking Layer
             < In this segmented data commes to router(tower) and source IP_Address and Destination IP_PAddress are identified and make packets.
