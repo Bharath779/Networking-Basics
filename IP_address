@@ -5,13 +5,14 @@ Types of IP_address
 1.IPV4
 2.IPv6
 
-CIDR : Class Inter Domain Routing
-< Its way of defining IP_address
-< based on the range of IP_address its Classified into different Types
+  Based on the range of IP_address its Classified into different Types
      < 192.64.32.0/8  ---> Class A  i.e get we get Ip range from 192.0.0.0 to 192.255.255.255
      < 192.64.32.0/16 ---> Class B  i.e get we get Ip range from 192.64.0.0 to 192.64.255.255
      < 192.64.32.0/24 ---> Class C  i.e get we get Ip range from 192.64.32.0 to 192.64.32.255
      
+ CIDR : Classless Inter Domain Routing(without classifying  class)
+< Its way of defining IP_address
+
 IPV4 :
  < Its a protocal to create a IP_address
  < Its Usually having 4 bytes,and 1 byte is seperated by . ie 192.65.32.11
